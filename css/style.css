@@ -346,10 +346,10 @@ button {
 .text-bg span {
      color: #fff;
      font-weight: bold;
-     font-size: 56px;
+     font-size: 40px;
      line-height: 50px;
      text-transform: uppercase;
-     letter-spacing: 90px;
+     letter-spacing: 10px;
 }
 
 .text-bg ul.social_team {
@@ -502,54 +502,6 @@ button {
 
 
 /** end about section **/
-
-
-/** software section **/
-
-.software {
-     background-color: #240082;
-     margin-top: 90px;
-}
-
-.software .titlepage h2 {
-     color: #fff;
-}
-
-.software .software_img figure {
-     margin: 0;
-}
-
-.software .software_img figure img {
-     height: 660px;
-}
-
-.software .titlepage {
-     max-width: 539px;
-     width: 100%;
-     float: right;
-}
-
-.software .titlepage p {
-     color: #fff;
-     font-size: 17px;
-     line-height: 35px;
-     font-weight: 400;
-     margin-top: 30px;
-     border: #fff solid 1px;
-     padding: 40px 40px;
-}
-
-.software .read_more {
-     margin-top: 50px;
-}
-
-.software .read_more:hover {
-     background-color: #fcc10e;
-}
-
-
-/** end software section **/
-
 
 /** We Do section **/
 
